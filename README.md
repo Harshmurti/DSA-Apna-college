@@ -1,11 +1,12 @@
 # DSA-Apna-college
-```
+
 You can find me on the following platforms:
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harsh-murti-06040a256/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-red?style=flat-square&logo=leetcode)](https://leetcode.com/harsh-murti/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=flat-square&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/murtihashfl/)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=flat-square&logo=instagram)](https://www.instagram.com/your-profile-url)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=flat-square&logo=instagram)](https://instagram.com/murtiharsh?igshid=ZDdkNTZiNTM=)
 
 Feel free to connect with me on any of these platforms to discuss DSA, programming, or any related topics!
 
@@ -66,6 +67,3 @@ Contributions to this project are welcome! If you find any issues, errors, or wo
 - [List of recommended books on DSA](link-to-additional-resources)
 - [Online tutorials and resources](link-to-tutorials)
 - [Research papers and articles](link-to-research-papers)
-```
-
-Feel free to customize the template based on your project's specific chapters and content.
