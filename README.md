@@ -1,7 +1,15 @@
 # DSA-Apna-college
-Sure! Below is a common template you can use for writing descriptions of chapters in your DSA project's README file:
-
 ```
+You can find me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harsh-murti-06040a256/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-red?style=flat-square&logo=leetcode)](https://leetcode.com/harsh-murti/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-brightgreen?style=flat-square&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/murtihashfl/)
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=flat-square&logo=instagram)](https://www.instagram.com/your-profile-url)
+
+Feel free to connect with me on any of these platforms to discuss DSA, programming, or any related topics!
+
+
 # Data Structures and Algorithms (DSA) Project
 
 This project aims to provide a comprehensive guide to Data Structures and Algorithms (DSA) concepts. It consists of various chapters covering different topics in DSA.
